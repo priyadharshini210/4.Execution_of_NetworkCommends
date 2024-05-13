@@ -64,7 +64,7 @@ print(result,unans)
 ![image](https://github.com/priyadharshini210/4.Execution_of_NetworkCommends/assets/148514638/fed915d2-6884-497e-bd0b-c394592e4c06)
 
 ## SERVER
-![Uploading image.png…]()
+![image](https://github.com/priyadharshini210/4.Execution_of_NetworkCommends/assets/148514638/19f9afc6-c7e6-49f7-925d-8c92d5bddb50)
 
 ## TRACEROUTE
 ![image](https://github.com/priyadharshini210/4.Execution_of_NetworkCommends/assets/148514638/2511aef0-955f-42c5-84a0-52a567167366)
